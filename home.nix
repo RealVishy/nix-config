@@ -19,6 +19,7 @@
 
   home.packages = with pkgs; [
     gh
+    opencode
     btop
     bun
     nodejs
